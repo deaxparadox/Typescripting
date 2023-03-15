@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-next-app": "^13.2.4",
+    "create-react-app": "^5.0.1",
+    "react-router-dom": "^6.6.1",
+    "typescript": "^4.9.4"
+  }
+}
